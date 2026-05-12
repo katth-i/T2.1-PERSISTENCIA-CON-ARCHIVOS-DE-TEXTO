@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+Katherine Castelo,18,Software,7.5
+Alejandro Aguagallo,18,Mecanica,8.0
+=======
 
 Nombre: Katy Castelo | Edad: 18 | Carrera: Software | Promedio: 8
 Nombre: Ashley Lozano | Edad: 18 | Carrera: Industrial | Promedio: 7.5
+>>>>>>> b23512fd5fddd44650192c5818519ebd91706d9c
