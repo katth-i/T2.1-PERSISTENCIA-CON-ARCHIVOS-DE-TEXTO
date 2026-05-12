@@ -1,0 +1,3 @@
+
+Nombre: Katy Castelo | Edad: 18 | Carrera: Software | Promedio: 8
+Nombre: Ashley Lozano | Edad: 18 | Carrera: Industrial | Promedio: 7.5
